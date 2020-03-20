@@ -3,8 +3,8 @@ common:
         one: 'Archiv'
         other: 'Archive'
     category:
-        one: 'Kategorie'
-        other: 'Kategorien'
+        one: 'Category'
+        other: 'Category'
     tag:
         one: 'Tag'
         other: 'Tags'
@@ -23,7 +23,7 @@ widget:
         title: 'Abonnieren (Email)'
         button: 'Abonnieren'
 article:
-    more: 'Mehr lesen'
+    more: '더보기'
     comments: 'Kommentare'
     read: 'lesen'
     about: 'Über'
